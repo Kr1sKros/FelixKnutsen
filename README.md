@@ -3,8 +3,10 @@
 <h2>🎓 About Me:</h2>
 <p>I'm a 3rd-year bachelor student in Information Systems at the University of Agder (Kristiansand). I’m passionate about app development and business technology, and currently working on a project to create a receipt storage app.</p>
 <br>
-<p>🔭 Currently working on: Receipt Storage App</p>
-<p>💡 Future plans: Recreating checkout system for grocery stores</p><br>
+<h3>Projects:</h3>
+
+<p>🔭 Currently project: Receipt Storage App</p>
+<p>💡 Future project: Recreating checkout system for grocery stores</p><br>
 
 
 <h2>🌍 Connect with Me:</h2>
