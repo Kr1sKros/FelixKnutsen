@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Felix Knutsen!</h1><br>
+<h1>👋 Hi, I'm Felix Fabricius Knutsen!</h1>
 
 <h2>🎓 About Me:</h2>
 <p>I'm a 3rd-year bachelor student in Information Systems at the University of Agder (Kristiansand). I’m passionate about app development and business technology, and currently working on a project to create a receipt storage app.</p>
@@ -6,7 +6,7 @@
 <h3>Projects:</h3>
 
 <p>🔭 Currently project: Receipt Storage App</p>
-<p>💡 Future project: Recreating checkout system for grocery stores</p><br>
+<p>💡 Future project: Portfolio website, and Recreating checkout system for grocery stores</p><br>
 
 
 <h2>🌍 Connect with Me:</h2>
